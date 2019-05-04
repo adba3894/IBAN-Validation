@@ -1,0 +1,25 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+				  xmlns:sch="http://ibans.com/iban-validation">
+				  <soapenv:Header/> 
+	            	<soapenv:Body> 
+	           		 <sch:IbansValidatorRequest>
+	       			  <sch:ibans>
+	       			  	<sch:iban>	
+          				 <sch:ibanNumber>AA051245445454552117989</sch:ibanNumber>
+          				 </sch:iban>
+          				 <sch:iban>	
+          				 <sch:ibanNumber>LT647044001231465456</sch:ibanNumber>
+          				 </sch:iban>
+          				 <sch:iban>	
+          				 <sch:ibanNumber>LT517044077788877777</sch:ibanNumber>
+          				 </sch:iban>
+          				 <sch:iban>	
+          				 <sch:ibanNumber>LT227044077788877777</sch:ibanNumber>
+          				 </sch:iban>
+          				 <sch:iban>	
+          				 <sch:ibanNumber>CC051245445454552117989</sch:ibanNumber>
+          				 </sch:iban>          				 
+	            	  </sch:ibans>
+	                </sch:IbansValidatorRequest> 
+			    	</soapenv:Body>
+</soapenv:Envelope>

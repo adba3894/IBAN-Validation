@@ -1,0 +1,8 @@
+Aplikacija turi GUI. Galite pasileisti SEB_Uzduotis.jar failą arba paleisti kodą.
+
+Vieno IBAN tikrinimas vyksta įprastai įklijuojant IBAN kodą CTRL+V komanda ir spaudžiame "Check".
+
+IBAN sarašo tikrinimas vyksta įvedus kelią iki failo, pvz (rašyti,žinoma, be kabučių) : "C:\Users\Dell\Desktop\SEB Uzduotys\GUI\SEB_Uzduotis\"
+ir įvedus failo pavadinimą be .txt plėtinio, kaip pvz: jei failas yra pavadinimu IBANS.txt, vedame tik IBANS ir spaudžiame "Check".
+
+DUOMENYS TESTUI: IBANS.txt faile!

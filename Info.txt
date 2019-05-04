@@ -1,0 +1,7 @@
+Yra 3 projektai.
+
+GUI folderyje yra: GUI aplikacija, naudojant Swing komponentus.
+REST folderyje yra REST webservisas.
+SOAP folderyje yra SOAP webservisas.
+
+Prie kiekvieno projekto yra išsami instrukcija, kaip jį pasileisti.

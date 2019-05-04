@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SEB_Uzduotis:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SEB_Uzduotis_jar2</output-path>
+    <root id="archive" name="SEB_Uzduotis.jar">
+      <element id="module-output" name="SEB_Uzduotis" />
+    </root>
+  </artifact>
+</component>

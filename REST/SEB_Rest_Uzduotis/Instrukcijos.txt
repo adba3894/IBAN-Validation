@@ -1,0 +1,11 @@
+1. Pasileiskite programą.
+2. Pratestuoti galima su Postman API testavimo įrankiu.
+3. Atsidarykite POSTMAN aplikaciją.
+4. Pasirinkite POST metodą ir įveskite url: http://localhost:8080/validate
+5. Paspauskite "raw" ir turinio tipą (content type) pasirinkite JSON (application/json).
+6. Nukopijuokite ibans.json turinį.
+7. Šio failo turinį nukopijuokite į žemiau esantį laukelį.
+8. Paspauskite "Send".
+9. Turėtumėte pamatyti tokį pat vaizdą kaip ir Pavyzdys.jpg faile.
+
+P.S Pažiūrėkite Pavyzdys.jpg.
